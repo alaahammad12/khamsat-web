@@ -1,0 +1,205 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.header {
+    background: rgba(95, 82, 82, 0.158) url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.50\ PM.jpeg) no-repeat scroll center;
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.h1h{
+    padding-top:100px ;
+    padding-bottom: 20px;
+
+}
+.h5h {
+    padding-bottom: 20px;
+}
+/*_______________________________________________*/
+
+ .hhh {
+     text-align: center; 
+     margin: 40px;
+    font-size: 30px;
+
+ }
+
+ .hh{
+     display: flex;
+     height: 250px;
+     width: 250;
+     color: white;
+     margin-bottom: 20px; 
+     
+ }
+ .hh1 {
+    display: flex;
+    height: 250px;
+    width: 250;
+    color: white;
+    
+ }
+
+.p1 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.41\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+
+.p2 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.45\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.p3 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.29\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  
+}
+
+.p4 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.27\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.p5 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.54\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.p6 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.24\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.p7 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.34\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.p8 {
+    background:  url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.58\ PM.jpeg) no-repeat scroll center; 
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+/*_________________________________________________________*/
+
+.position {
+    background: url(WhatsApp\ Image\ 2022-03-19\ at\ 1.17.51\ PM.jpeg) no-repeat scroll center;
+    background-size: cover;
+    height: 350px;
+    color: white; 
+    margin-top: 90px;
+    
+    
+   
+   
+}
+.img {
+    width: 100%;
+    height: 100%;
+    
+
+}
+.par {
+    display: flex;
+    justify-content: center;
+    padding-top:90px ;
+    padding-bottom: 40px;
+    font-size: 20px;
+    
+   
+    
+ }
+
+ .poo {
+    position: relative;
+    display: flex;
+    
+   justify-content:center;
+  
+}
+
+.search {
+    position: absolute;
+    z-index: 1;
+   
+    
+    
+}
+
+.ok {
+   position: absolute;
+   z-index: 2;
+   left: 335px;
+   padding-top: 5px;
+
+}
+
+.question{
+    text-align: center;
+    margin: 40px;
+}
+
